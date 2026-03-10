@@ -1,0 +1,11 @@
+student_id,name,department,semester,late_days,scholarship,Math,Physics,English,CS
+S001,Ali Hassan,Computer Science,5,0,,85,78,90,92
+S002,Sara Khan,Computer Science,5,5,50000,72,65,88,79
+S003,Bilal Ahmed,Software Engineering,3,0,,45,60,70,55
+S004,Fatima Noor,Computer Science,5,12,,90,88,95,97
+S005,Usman Ali,Software Engineering,3,3,,55,48,62,70
+S006,Zara Malik,Computer Science,5,0,75000,88,92,85,91
+S007,Hamza Riaz,Software Engineering,3,0,,30,40,50,45
+S008,Nida Shah,Computer Science,5,0,,78,82,75,80
+S009,BadRecord,,5,0,,70,80,90,85
+S010,Ali Hassan,CS,5,abc,,invalid,80,90,85
