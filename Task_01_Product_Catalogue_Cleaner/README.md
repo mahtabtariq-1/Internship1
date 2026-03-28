@@ -1,7 +1,7 @@
 # Task 01 — Product Catalogue Cleaner
 
 ## Topic
-Data Types, Type Casting and Data Structures
+Data Types, Type Casting and Data Structure
 
 ## What This Task Does
 A supplier sends a raw product list with mixed types, duplicates, and missing values.
